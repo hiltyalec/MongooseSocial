@@ -1,0 +1,27 @@
+{
+    "name": "mongoosesocial",
+    "version": "1.0.0",
+    "description": "An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/hiltyalec/MongooseSocial.git"
+    },
+    "author": "Cynthia Mory",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/hiltyalec/MongooseSocial/issues"
+    },
+    "homepage": "https://github.com/hiltyalec/MongooseSocial#readme",
+    "dependencies": {
+      "dotenv": "^16.3.1",
+      "express": "^4.18.2",
+      "jest": "^25.0.0",
+      "mongoose": "^7.3.1",
+      "nodemon": "^1.14.9"
+    }
+  }
+  
